@@ -6,9 +6,9 @@ permalink:  building_a_piano_with_javascript
 ---
 
 
-I started the Flatiron School's online program before there was an upper limit on how long you could stay in the program, which was great because it made it livable as a working parent, but as time dragged on, I started feeling desperate to just be done with it already. At the beginning of the React section, I decided my only time goal was just to please please manage to graduate in less than two and a half years. I'm proud to say that (fingers crossed that I pass the final assessment) I'll be just squeaking in under the line at two years, five months. Yay, me.
+I started the Flatiron School's online program before there was an upper limit on how long you could stay in the program, which was great because it made it livable as a working parent. But as time dragged on, I started feeling desperate to just be done with it already. At the beginning of the React section, I decided my only time goal was just to please please manage to graduate in less than two and a half years. I'm proud to say that (fingers crossed that I pass the final assessment) I'll be just squeaking in under the line at two years, five months. Yay, me.
 
-For each of the five portfolio projects, I aimed to built something useful to my life at the time. For this final portfolio project, I decided I'd like a tool to compose simple songs (as a way to encourage my daughter to practice the guitar) that incorporated some sort of external library, and I got closer than I ever have to building something like the initial idea. I wasn't able to include all the features I wanted to, of course, but I'm pretty happy to be finishing Flatiron with this as a starting point.
+For each of the five portfolio projects, I aimed to built something useful to my life at the time. For this final portfolio project, I decided I'd like a tool to compose simple songs that incorporated some sort of external library (as a way to both learn something and encourage my daughter to practice the guitar), and I got closer than I ever have to building something like the initial idea. I wasn't able to include all the features I wanted to, of course, but I'm pretty happy to be finishing Flatiron with this as a starting point.
 
 ![Screenshot of Tone Piano](https://i.imgur.com/1z0goUh.png)
 
